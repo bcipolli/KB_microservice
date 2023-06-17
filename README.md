@@ -14,8 +14,7 @@ OpenAI's GPT model to process and generate the content of the articles.
 ## Setup
 
 1. Create `key_openai.txt` and place your API key within.
-2. Create `kb/` directory for your KB articles.
-3. Install all requirements in `requirements.txt`.
+2. Install all requirements in `requirements.txt`.
 
 ## Usage
 
